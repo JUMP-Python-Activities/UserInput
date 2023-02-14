@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 from io import StringIO
 
-import userInputAnswer as userInput
+import userInput
 
 class TestUserInput(unittest.TestCase):
 
